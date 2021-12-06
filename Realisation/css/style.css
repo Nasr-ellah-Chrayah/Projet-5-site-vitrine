@@ -45,17 +45,14 @@ a{
     opacity: 0.6;
 }
 h1{
-    color: #ffffff;
-    margin-left: 1095px;
+    color:aquamarine;
     font-size: 90px;
+    background: rgb(71, 70, 70);
+    height: fit-content;
+
 
 }
-h2{
-    color:#B6BC00;
-    margin-left: 1279px;
-    margin-top: -161px;
-    font-size: 60px; 
-}
+
 .navlist{
     padding-top: 30px;
     font-family: var(--universal-font);
@@ -196,7 +193,7 @@ footer{
 }
 .form h3 {
 
-    color:white
+    color:white;
     margin-bottom: 30px;
     font-size: 25px;
     margin-left: -116px;
